@@ -1,4 +1,6 @@
-# Amazon-Sales-AnalysisThis project presents an interactive Power BI dashboard designed to analyze Amazon sales and customer engagement data.
+# Amazon-Sales-Analysis
+
+This project presents an interactive Power BI dashboard designed to analyze Amazon sales and customer engagement data.
 
 📌 Dashboard Highlights
 
@@ -37,5 +39,7 @@ Interactive slicers for Category & Quarter analysis
 🎯 Objective
 
 To identify key sales drivers, highlight top-performing products, and analyze customer review patterns to support business growth strategies.
+
+
 <img width="1540" height="863" alt="amaxon sales analysis" src="https://github.com/user-attachments/assets/8b1cf6ac-6d7a-4632-90c0-230698532bb6" />
 
